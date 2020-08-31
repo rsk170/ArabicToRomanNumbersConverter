@@ -1,0 +1,13 @@
+C:\Users\rkisleva\source\repos\ArabicToRomanNumbers\ArabicToRomanNumbers\bin\Debug\netcoreapp3.1\ArabicToRomanNumbers.exe
+C:\Users\rkisleva\source\repos\ArabicToRomanNumbers\ArabicToRomanNumbers\bin\Debug\netcoreapp3.1\ArabicToRomanNumbers.deps.json
+C:\Users\rkisleva\source\repos\ArabicToRomanNumbers\ArabicToRomanNumbers\bin\Debug\netcoreapp3.1\ArabicToRomanNumbers.runtimeconfig.json
+C:\Users\rkisleva\source\repos\ArabicToRomanNumbers\ArabicToRomanNumbers\bin\Debug\netcoreapp3.1\ArabicToRomanNumbers.runtimeconfig.dev.json
+C:\Users\rkisleva\source\repos\ArabicToRomanNumbers\ArabicToRomanNumbers\bin\Debug\netcoreapp3.1\ArabicToRomanNumbers.dll
+C:\Users\rkisleva\source\repos\ArabicToRomanNumbers\ArabicToRomanNumbers\bin\Debug\netcoreapp3.1\ArabicToRomanNumbers.pdb
+C:\Users\rkisleva\source\repos\ArabicToRomanNumbers\ArabicToRomanNumbers\obj\Debug\netcoreapp3.1\ArabicToRomanNumbers.csprojAssemblyReference.cache
+C:\Users\rkisleva\source\repos\ArabicToRomanNumbers\ArabicToRomanNumbers\obj\Debug\netcoreapp3.1\ArabicToRomanNumbers.AssemblyInfoInputs.cache
+C:\Users\rkisleva\source\repos\ArabicToRomanNumbers\ArabicToRomanNumbers\obj\Debug\netcoreapp3.1\ArabicToRomanNumbers.AssemblyInfo.cs
+C:\Users\rkisleva\source\repos\ArabicToRomanNumbers\ArabicToRomanNumbers\obj\Debug\netcoreapp3.1\ArabicToRomanNumbers.csproj.CoreCompileInputs.cache
+C:\Users\rkisleva\source\repos\ArabicToRomanNumbers\ArabicToRomanNumbers\obj\Debug\netcoreapp3.1\ArabicToRomanNumbers.dll
+C:\Users\rkisleva\source\repos\ArabicToRomanNumbers\ArabicToRomanNumbers\obj\Debug\netcoreapp3.1\ArabicToRomanNumbers.pdb
+C:\Users\rkisleva\source\repos\ArabicToRomanNumbers\ArabicToRomanNumbers\obj\Debug\netcoreapp3.1\ArabicToRomanNumbers.genruntimeconfig.cache
